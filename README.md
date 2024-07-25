@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: abubkr12068@gmail.com
-- 😄 My website: https://thetechbrothers.net
+- 😄 My website: https://Icoder.com
 - ⚡ Fun fact: I'm comming to teen
   
 ### Connect with me:
@@ -18,7 +18,7 @@
    <a href="https://www.instagram.com/mr_abi542672">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-   <a href="https://fb.com/aaxiftaj">
+   <a href="https://fb.com/mrabi542672">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
    <a href="https://twitter.com/mrabi542672">
@@ -35,4 +35,4 @@
 
 
 <br>
-⭐️ From [axiftaj](https://github.com/mrabi542672)
+⭐️ From [mrabi542672](https://github.com/mrabi542672)
