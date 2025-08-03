@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: abubkr12068@gmail.com
-- 😄 My website: https://Icoder.com
 - ⚡ Fun fact: I'm comming to teen
   
 ### Connect with me:
@@ -15,7 +14,7 @@
   <a href="https://www.youtube.com/channel/UCzvRaprYPhvAplMK36Gu0kw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-   <a href="https://www.instagram.com/mr_abi542672">
+   <a href="https://www.instagram.com/itx_abi007">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
    <a href="https://fb.com/mrabi542672">
